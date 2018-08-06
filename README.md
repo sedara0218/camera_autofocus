@@ -8,3 +8,8 @@ A machine learning approach for defining contrast for autofocus.
 * __test_blur__ is the folder containing 6 images at different camera lens positions.
 * __train_data__ contains training images (1400 total)
 * __validation_data__ contains validation images (600 total)
+## Steps to Run the program
+#### 1. Download all files listed in this repo to a local directory.<br />
+#### 2. Run .ipynb file for the type of model you want to create (cnn or feedforward).<br />
+#### 3. For predictions, use the prediction code written at the end of the __vgg16_autofocus.ipynb__.<br />
+
