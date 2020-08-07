@@ -1,7 +1,7 @@
 # Camera Autofocus Model
 A machine learning approach for defining contrast for autofocus.
 
-##### Read the following article to get a background for this project: https://medium.com/@sedara0218/how-the-camera-autofocus-feature-works-in-digital-smartphones-8382d511996c
+##### Read the following article to get a background for this project: https://medium.com/@sedara/how-the-camera-autofocus-feature-works-in-digital-smartphones-8382d511996c
 
 ## File Descriptions
 * __autofocus_feedforward.ipynb__ is the file containing code for the feedforward autofocus neural network.
